@@ -1,7 +1,7 @@
 {
-  "name": "app2",
+  "name": "WebApp",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Decoupling Drupal 8 using VueJS framework and JSON:API specification",
   "author": "nino.marrazzo@wellnet.it <nino.marrazzo@wellnet.it>",
   "private": true,
   "scripts": {
