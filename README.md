@@ -1,6 +1,6 @@
-# app2
+# WebApp
 
-> A Vue.js project
+> Decoupling Drupal 8 using VueJS framework and JSON:API specification
 
 ## Build Setup
 
